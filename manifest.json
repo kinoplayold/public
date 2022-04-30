@@ -2,14 +2,14 @@
     "source": "https://kinoplay.izifilm.net/",
     "dist": {
         "android": {
-            "file": "https://kinoplay.app/releases/Kinoplay-0.1.5.apk",
-            "download": "https://kinoplay.app/download/android",
-            "version": "0.1.5"
+            "file": "https://kino-play.app/releases/Kinoplay-0.1.6.apk",
+            "download": "https://kino-play.app/download/android",
+            "version": "0.1.6"
         },
         "windows": {
-            "file_x64": "https://kinoplay.app/releases/Kinoplay-x64-0.1.5.msi",
-            "file_x86": "https://kinoplay.app/releases/Kinoplay-x86-0.1.5.msi",
-            "download": "https://kinoplay.app/download/windows",
+            "file_x64": "https://kino-play.app/releases/Kinoplay-x64-0.1.5.msi",
+            "file_x86": "https://kino-play.app/releases/Kinoplay-x86-0.1.5.msi",
+            "download": "https://kino-play.app/download/windows",
             "version": "0.1.5"
         }
     }
